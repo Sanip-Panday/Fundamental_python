@@ -584,3 +584,11 @@
 # print(check_order(string, pattern))
 
 
+
+
+
+
+# -------------->    Dictionary and counter in Python to find winner of election
+
+
+
